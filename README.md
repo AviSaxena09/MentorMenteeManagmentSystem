@@ -1,4 +1,8 @@
 # MentorMenteeManagmentSystem
+Collaborators:
+1)Avi Saxena
+2)Moinuddin Bhavnagri
+
 The Software provides an interface for the users(admin, mentor, mentee's parent) to perform different tasks according to thier need.
 
 1> Admin:
